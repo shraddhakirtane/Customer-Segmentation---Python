@@ -1,2 +1,2 @@
-# Customer-Segmentation---Python
+# Customer-Segmentation---Pthon
 Customer Segmentation Using K-Means Algorithm
